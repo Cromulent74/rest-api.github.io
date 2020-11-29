@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "my first rest api",
+  "main": "server.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "rest",
+    "api"
+  ],
+  "author": "ifomko",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^5.5.0"
+  }
+}
